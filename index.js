@@ -1,4 +1,4 @@
 // codigo javascript
 linea insertada desde github
-alert("cod hithub js");
+alert("cod hithub jsjsjsjs");
 linea insertada desde consola
