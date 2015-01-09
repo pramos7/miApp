@@ -1,2 +1,2 @@
 // codigo javascript
-alert("aaacodigo desde github");
+alert("cod hithub js");
