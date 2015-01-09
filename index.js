@@ -1,4 +1,2 @@
 // codigo javascript
-alert("cod js");
-
-
+alert("codigo desde github");
